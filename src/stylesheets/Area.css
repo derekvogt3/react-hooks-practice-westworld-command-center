@@ -3,6 +3,12 @@
   position: absolute;
 }
 
+.host-box {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
 .labels {
   padding: 5px;
 }
